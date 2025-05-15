@@ -1,4 +1,4 @@
-Gemini Chatbot Project (Built with Streamlit)
+Gemini Chatbot Project (Built with Streamlit):
 The Gemini Chatbot Project is a user-friendly web application developed using Streamlit, designed to provide seamless conversational experiences powered by Google's Gemini AI (via the Gemini API). This project showcases how developers can quickly build intelligent, interactive chat interfaces by combining powerful large language models with a simple, Python-based frontend framework.
 
 1: Key Features:
