@@ -25,7 +25,10 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # 3. Install Streamlit and other dependencies
 pip install streamlit google-generativeai python-dotenv
-▶️ Run the App
+
+
+
+▶️ Run the App:
 streamlit run app.py
 
 
