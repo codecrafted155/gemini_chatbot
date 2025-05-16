@@ -15,21 +15,31 @@ A lightweight chatbot built with **Streamlit** and powered by **Google's Gemini 
 
 ## 🛠️ Installation
 
-# 1. Clone the repository
+### 1. Clone the repository
+```bash
 git clone https://github.com/your-username/gemini-chatbot.git
 cd gemini-chatbot
+```
 
-# 2. Create and activate virtual environment (optional but recommended)
+### 2. Create and activate virtual environment (optional but recommended)
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
 
-# 3. Install Streamlit and other dependencies
+### 3. Install Streamlit and other dependencies
+```bash
 pip install streamlit google-generativeai python-dotenv
+```
 
 
-
-▶️ Run the App:
+### 4.Run App
+```bash
 streamlit run app.py
+```
+
+
+
 
 
 
