@@ -5,13 +5,13 @@ import google.generativeai as genai
 st.title("💬 Gemini Chatbot")
 
 # Step 1: Fetch API key from environment variable (no need for user input in GUI)
-api_key = "AIzaSyDS_fR2vcBvRFyRlhUKhURA_CkJXRQggyI"
+api_key = "xyz"
 
 # Step 2: Only proceed if API key is found
 if api_key:
     try:
         # Step 3: Pass the API key to the genai SDK for authentication
-        genai.configure(api_key="AIzaSyDS_fR2vcBvRFyRlhUKhURA_CkJXRQggyI" )
+        genai.configure(api_key="XYZ" )
             # Pass the API key here to configure the Gemini API
 
         # Step 4: Initialize the Gemini model after configuring the API
